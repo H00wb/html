@@ -1,0 +1,70 @@
+body {
+    background-color: darkorange;
+}
+.tab { 
+       display:inline-block; 
+       margin-left: 40px; 
+}
+h1 {
+    color: black;
+    font-family: 'Montserrat', cursive;
+    font-size: 40px;
+    text-align: center;
+}
+
+h3 {
+    color: black;
+    font-family: 'Hubballi';
+    font-size: 30px;
+    text-align: left;
+}
+	
+img{
+    
+    border:2px solid #999; 
+    -webkit-border-radius:8px; 
+    -moz-border-radius:8px; 
+    border-radius:8px;
+}
+
+p {
+    font-family: 'Montserrat',cursive;
+    font-size: 20px;
+}
+li {
+    font-family: 'Hubballi';
+    font-size: 20px;
+}
+pre {
+    font-family: 'Montserrat';
+    font-size: 16px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
